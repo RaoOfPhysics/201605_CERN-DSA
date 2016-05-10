@@ -161,7 +161,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33960629"
+     inkscape:zoom="0.32752543"
      inkscape:cx="2106.4961"
      inkscape:cy="1489.9606"
      inkscape:document-units="mm"
@@ -315,7 +315,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -1234,14 +1234,14 @@
          y="-675.68323"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FFF Tusj';-inkscape-font-specification:'FFF Tusj Bold'">OUTREACH</tspan></text>
     <rect
-       style="opacity:0.3;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect6458"
        width="516.55383"
        height="761.85284"
        x="120.72804"
        y="-707.04315" />
     <rect
-       style="opacity:0.3;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect6462"
        width="800.92688"
        height="401.64313"
@@ -1272,28 +1272,28 @@
          id="tspan3558"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:175%;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;letter-spacing:1px;text-anchor:middle">General journalists, Other media, Politicians, Industry</tspan></text>
     <rect
-       style="opacity:0.3;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       style="opacity:1;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
        id="rect3604"
        width="1439.9026"
        height="359.23953"
        x="2641.2939"
        y="92.427406" />
     <rect
-       style="opacity:0.3;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       style="opacity:1;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
        id="rect3606"
        width="1442.8472"
        height="441.68793"
        x="2641.2939"
        y="492.89108" />
     <rect
-       style="opacity:0.3;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       style="opacity:1;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
        id="rect4414"
        width="803.87201"
        height="403.40829"
        x="2641.2939"
        y="-467.04404" />
     <rect
-       style="opacity:0.3;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       style="opacity:1;fill:#000000;fill-opacity:0.09411765;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
        id="rect4416"
        width="524.13629"
        height="757.6886"
@@ -1625,7 +1625,7 @@
            x="161.95224"
            y="1260.283"
            style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /></flowRegion><flowPara
-         id="flowPara4745"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4745" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4747"
        style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1642,7 +1642,7 @@
          id="flowPara4757"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:160.00000238%;font-family:Quicksand;-inkscape-font-specification:Quicksand" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:160.00000238%;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-         id="flowPara4771"></flowPara><flowPara
+         id="flowPara4771" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:160.00000238%;font-family:Quicksand;-inkscape-font-specification:Quicksand"
          id="flowPara4777">used among particle  physicists to refer to:</flowPara><flowPara
          id="flowPara4759"
@@ -3173,7 +3173,7 @@
            x="3598.2844"
            y="1295.6179"
            style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /></flowRegion><flowPara
-         id="flowPara7335"></flowPara></flowRoot>    <flowRoot
+         id="flowPara7335" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7337"
        style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
