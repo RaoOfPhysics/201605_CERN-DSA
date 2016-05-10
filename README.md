@@ -1,5 +1,8 @@
 # Attitudes towards outreach in particle physics (poster)
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.51285.svg)](http://dx.doi.org/10.5281/zenodo.51285)
+[![Achintya's PhD repos](https://img.shields.io/badge/collection-Achintya's%20PhD%20repos-yellowgreen.svg)](https://github.com/RaoOfPhysics/phd)
+
 This poster was presented at the CERN Doctural Student Assembly on 10 May 2016.
 The raw file is `201605_CERN-DSA.svg` while the file for print is `201605_CERN-DSA.pdf`.
 
